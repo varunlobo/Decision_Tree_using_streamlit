@@ -26,7 +26,7 @@ with header:
             It is compatible with major Python libraries such as scikit-learn,\
             Keras, PyTorch, NumPy, pandas, Matplotlib etc")
             
-    st.markdown("In this casestudy, we have used data on employees from a fictitional company. \
+    st.markdown("In this casestudy, we have used data on employees from a fictional company. \
                 We use 3 different Machine Learning models to predict the attrition rate of an\
                 employee. The feature variables are Age, DistanceFromHome, Education, Salary,\
                 JobInvolvement, etc. The target variable is 'Attrition'.")
