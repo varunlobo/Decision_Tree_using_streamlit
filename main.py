@@ -25,6 +25,14 @@ with header:
             It helps us create web apps for data science and machine learning.\
             It is compatible with major Python libraries such as scikit-learn,\
             Keras, PyTorch, NumPy, pandas, Matplotlib etc")
+            
+    st.markdown("In this casestudy, we have used data on employees from a fictitional company. \
+                We use 3 different Machine Learning models to predict the attrition rate of an\
+                employee. The feature variables are Age, DistanceFromHome, Education, Salary,\
+                JobInvolvement, etc. The target variable is 'Attrition'.")
+                
+    st.markdown("This webpage gives the option to select different ML algorithms and \
+                change the hyperparameters to monitor different error metrics for performance.")
     
 
 with EDA:
