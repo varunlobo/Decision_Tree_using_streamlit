@@ -1,5 +1,5 @@
 # Decision_Tree_using_streamlit
-Decision Tree machine learning model deployed on cloud using streamlit
+Decision Tree, Support Vector Machine, & Logistic Regressions, machine learning model deployed on cloud using streamlit
 
 
 Follow this link to check out the final results.
